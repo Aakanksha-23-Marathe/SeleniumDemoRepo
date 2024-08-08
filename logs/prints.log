@@ -1,0 +1,115 @@
+14:15:58.797 [main] DEBUG java.lang.Class - Broswer got open
+14:16:00.464 [main] DEBUG java.lang.Class - Url opened in browser
+14:16:01.068 [main] DEBUG java.lang.Class - Click on myaccount dropdown
+14:16:01.312 [main] DEBUG java.lang.Class - Click on login button
+14:16:01.552 [main] DEBUG java.lang.Class - Email got entered
+14:16:01.695 [main] DEBUG java.lang.Class - Password got entered
+14:16:02.002 [main] DEBUG java.lang.Class - Click on login button
+14:16:12.058 [main] DEBUG java.lang.Class - User didn't Logged in
+14:16:16.871 [main] DEBUG java.lang.Class - Browser got closed
+14:16:17.688 [main] DEBUG java.lang.Class - Broswer got open
+14:16:26.341 [main] DEBUG java.lang.Class - Url opened in browser
+14:16:26.433 [main] DEBUG java.lang.Class - Click on myaccount dropdown
+14:16:26.730 [main] DEBUG java.lang.Class - Click on login button
+14:16:26.923 [main] DEBUG java.lang.Class - Email got entered
+14:16:27.051 [main] DEBUG java.lang.Class - Password got entered
+14:16:27.565 [main] DEBUG java.lang.Class - Click on login button
+14:16:27.625 [main] DEBUG java.lang.Class - User got Logged in
+14:16:32.451 [main] DEBUG java.lang.Class - Browser got closed
+14:26:27.917 [main] DEBUG java.lang.Class - Broswer got open
+14:26:34.950 [main] DEBUG java.lang.Class - Url opened in browser
+14:26:35.065 [main] DEBUG java.lang.Class - Click on myaccount dropdown
+14:26:35.498 [main] DEBUG java.lang.Class - Click on login button
+14:26:35.682 [main] DEBUG java.lang.Class - Email got entered
+14:26:35.807 [main] DEBUG java.lang.Class - Password got entered
+14:26:36.217 [main] DEBUG java.lang.Class - Click on login button
+14:26:46.225 [main] DEBUG java.lang.Class - User didn't Logged in
+14:26:49.527 [main] DEBUG java.lang.Class - Browser got closed
+14:26:50.398 [main] DEBUG java.lang.Class - Broswer got open
+14:26:52.723 [main] DEBUG java.lang.Class - Url opened in browser
+14:26:52.818 [main] DEBUG java.lang.Class - Click on myaccount dropdown
+14:26:53.081 [main] DEBUG java.lang.Class - Click on login button
+14:26:53.219 [main] DEBUG java.lang.Class - Email got entered
+14:26:53.313 [main] DEBUG java.lang.Class - Password got entered
+14:26:53.920 [main] DEBUG java.lang.Class - Click on login button
+14:26:53.981 [main] DEBUG java.lang.Class - User got Logged in
+14:26:57.243 [main] DEBUG java.lang.Class - Browser got closed
+14:41:20.408 [main] DEBUG java.lang.Class - Broswer got open
+14:41:26.117 [main] DEBUG java.lang.Class - Url opened in browser
+14:41:26.240 [main] DEBUG java.lang.Class - Click on myaccount dropdown
+14:41:26.521 [main] DEBUG java.lang.Class - Click on login button
+14:41:26.636 [main] DEBUG java.lang.Class - Email got entered
+14:41:26.713 [main] DEBUG java.lang.Class - Password got entered
+14:41:27.013 [main] DEBUG java.lang.Class - Click on login button
+14:42:39.424 [main] DEBUG java.lang.Class - Broswer got open
+14:42:42.080 [main] DEBUG java.lang.Class - Url opened in browser
+14:42:42.265 [main] DEBUG java.lang.Class - Click on myaccount dropdown
+14:42:42.567 [main] DEBUG java.lang.Class - Click on login button
+14:42:42.757 [main] DEBUG java.lang.Class - Email got entered
+14:42:42.884 [main] DEBUG java.lang.Class - Password got entered
+14:42:43.195 [main] DEBUG java.lang.Class - Click on login button
+14:42:53.207 [main] DEBUG java.lang.Class - User didn't Logged in
+14:42:57.173 [main] DEBUG java.lang.Class - Browser got closed
+14:42:58.053 [main] DEBUG java.lang.Class - Broswer got open
+14:43:06.177 [main] DEBUG java.lang.Class - Url opened in browser
+14:43:06.305 [main] DEBUG java.lang.Class - Click on myaccount dropdown
+14:43:06.590 [main] DEBUG java.lang.Class - Click on login button
+14:43:06.707 [main] DEBUG java.lang.Class - Email got entered
+14:43:06.795 [main] DEBUG java.lang.Class - Password got entered
+14:43:07.294 [main] DEBUG java.lang.Class - Click on login button
+14:43:07.348 [main] DEBUG java.lang.Class - User got Logged in
+14:43:11.225 [main] DEBUG java.lang.Class - Browser got closed
+14:59:40.200 [main] DEBUG java.lang.Class - Broswer got open
+14:59:42.088 [main] DEBUG java.lang.Class - Url opened in browser
+14:59:42.254 [main] DEBUG java.lang.Class - Click on myaccount dropdown
+14:59:42.501 [main] DEBUG java.lang.Class - Click on login button
+14:59:42.689 [main] DEBUG java.lang.Class - Email got entered
+14:59:42.803 [main] DEBUG java.lang.Class - Password got entered
+14:59:43.120 [main] DEBUG java.lang.Class - Click on login button
+14:59:53.157 [main] DEBUG java.lang.Class - User didn't Logged in
+14:59:56.457 [main] DEBUG java.lang.Class - Browser got closed
+14:59:57.348 [main] DEBUG java.lang.Class - Broswer got open
+14:59:59.283 [main] DEBUG java.lang.Class - Url opened in browser
+14:59:59.369 [main] DEBUG java.lang.Class - Click on myaccount dropdown
+14:59:59.722 [main] DEBUG java.lang.Class - Click on login button
+14:59:59.925 [main] DEBUG java.lang.Class - Email got entered
+15:00:00.048 [main] DEBUG java.lang.Class - Password got entered
+15:00:02.026 [main] DEBUG java.lang.Class - Click on login button
+15:00:02.099 [main] DEBUG java.lang.Class - User got Logged in
+15:00:05.422 [main] DEBUG java.lang.Class - Browser got closed
+15:14:20.092 [main] DEBUG java.lang.Class - Broswer got open
+15:14:23.382 [main] DEBUG java.lang.Class - Url opened in browser
+15:14:23.525 [main] DEBUG java.lang.Class - Click on myaccount dropdown
+15:14:23.821 [main] DEBUG java.lang.Class - Click on login button
+15:14:24.029 [main] DEBUG java.lang.Class - Email got entered
+15:14:24.192 [main] DEBUG java.lang.Class - Password got entered
+15:14:24.597 [main] DEBUG java.lang.Class - Click on login button
+15:14:34.656 [main] DEBUG java.lang.Class - User didn't Logged in
+15:14:38.551 [main] DEBUG java.lang.Class - Browser got closed
+15:14:39.474 [main] DEBUG java.lang.Class - Broswer got open
+15:14:45.489 [main] DEBUG java.lang.Class - Url opened in browser
+15:14:45.577 [main] DEBUG java.lang.Class - Click on myaccount dropdown
+15:14:45.859 [main] DEBUG java.lang.Class - Click on login button
+15:14:46.031 [main] DEBUG java.lang.Class - Email got entered
+15:14:46.140 [main] DEBUG java.lang.Class - Password got entered
+15:14:46.646 [main] DEBUG java.lang.Class - Click on login button
+15:14:46.701 [main] DEBUG java.lang.Class - User got Logged in
+15:14:49.945 [main] DEBUG java.lang.Class - Browser got closed
+15:41:14.460 [main] DEBUG java.lang.Class - Broswer got open
+15:41:20.963 [main] DEBUG java.lang.Class - Url opened in browser
+15:41:21.072 [main] DEBUG java.lang.Class - Click on myaccount dropdown
+15:41:21.394 [main] DEBUG java.lang.Class - Click on login button
+15:41:21.559 [main] DEBUG java.lang.Class - Email got entered
+15:41:21.680 [main] DEBUG java.lang.Class - Password got entered
+15:41:22.257 [main] DEBUG java.lang.Class - Click on login button
+15:41:32.332 [main] DEBUG java.lang.Class - User didn't Logged in
+15:41:35.753 [main] DEBUG java.lang.Class - Browser got closed
+15:41:36.637 [main] DEBUG java.lang.Class - Broswer got open
+15:41:39.395 [main] DEBUG java.lang.Class - Url opened in browser
+15:41:39.523 [main] DEBUG java.lang.Class - Click on myaccount dropdown
+15:41:40.215 [main] DEBUG java.lang.Class - Click on login button
+15:41:40.411 [main] DEBUG java.lang.Class - Email got entered
+15:41:40.532 [main] DEBUG java.lang.Class - Password got entered
+15:41:41.176 [main] DEBUG java.lang.Class - Click on login button
+15:41:41.242 [main] DEBUG java.lang.Class - User got Logged in
+15:41:44.450 [main] DEBUG java.lang.Class - Browser got closed
